@@ -55,7 +55,8 @@ Manaul RAG flow
 			  "decision":"RAG"
 			}
 		```
-# Stepup
+---
+# Step Up
 
 	```
 		Transformer architecture
